@@ -1,0 +1,7 @@
+A simple experiment to execute python in Node.js using Skulpt, a JavaScript
+implementation of Python (http://www.skulpt.org).
+
+My main motivation was to see if this could be used to assess code written by students,
+so the functions available reflect this.
+
+For an example, check the file example.js
